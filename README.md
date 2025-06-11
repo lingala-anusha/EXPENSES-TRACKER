@@ -31,7 +31,6 @@ expense-tracker/
 
 ### 1. Clone the repository
 ![Clone Repo](https://img.shields.io/badge/📋_git_clone-Click_to_Copy-blue)](https://github.com/lingalanusha/EXPENSES-TRACKER.git)
-```bash
 git clone https://github.com/lingalanusha/EXPENSES-TRACKER.git
 
 Simply double-click index.html or:
