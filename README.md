@@ -4,8 +4,6 @@
 
 A simple yet powerful expense tracking application that helps you manage your finances with local storage persistence.
 
-![Expense Tracker Screenshot](https://i.ibb.co/jfScDTC/budget.png)
-
 ## ✨ Features
 
 - 📊 Track income and expenses
@@ -98,3 +96,9 @@ function formatRupees(num) {
 - ❌ No data export/import functionality
 - ❌ No category support
 - ❌ No date tracking for transactions
+
+## 📸 Output 
+
+![expenses tracker](https://github.com/user-attachments/assets/0e5d341b-9eaa-4f88-8a8d-c6de614344bf)
+
+
