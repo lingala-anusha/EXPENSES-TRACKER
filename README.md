@@ -1,6 +1,3 @@
-Here's a comprehensive `README.md` file for your Expense Tracker application:
-
-```markdown
 # 💰 Expense Tracker
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-ES6+-yellow) ![CSS](https://img.shields.io/badge/CSS-3-blue) ![HTML](https://img.shields.io/badge/HTML-5-orange)
