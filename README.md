@@ -3,8 +3,6 @@
 > A lightweight financial tracking web app with local storage persistence 💾  
 > Built with vanilla HTML, CSS, and JavaScript
 
-Output:(C:\Users\Lingala Anusha\OneDrive\Pictures\Screenshots\expenses tracker)
-
 ## ✨ Key Features
 
 ### 📝 Transaction Management
