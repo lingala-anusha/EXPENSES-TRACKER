@@ -29,7 +29,7 @@ expense-tracker/
 
 ## 🔽 Clone Repository
 
-[![Clone](https://img.shields.io/badge/CLONE_THIS_REPO-Click_Here-important?style=for-the-badge)](
+[Clone](https://img.shields.io/badge/CLONE_THIS_REPO-Click_Here-important?style=for-the-badge)](
 https://github.com/lingalanusha/EXPENSES-TRACKER.git)
 
 ```bash
