@@ -25,18 +25,4 @@
 expense-tracker/
 ├── index.html      # Main HTML structure
 ├── style.css       # Responsive styling with animations
-└── script.js       # Core logic (CRUD operations + localStorage)
-
-## 🔽 Clone Repository
-
-[Clone](https://img.shields.io/badge/CLONE_THIS_REPO-Click_Here-important?style=for-the-badge)](
-https://github.com/lingalanusha/EXPENSES-TRACKER.git)
-
-```bash
-git clone https://github.com/lingalanusha/EXPENSES-TRACKER.git
-
-Simply double-click index.html or:
-
-bash
-open index.html  # Mac
-start index.html # Windows 
+└── script.js       # Core logic (CRUD operations + localStorage) 
