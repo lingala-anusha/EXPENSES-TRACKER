@@ -1,5 +1,5 @@
 # 💰 Expense Tracker ![GitHub license](https://img.shields.io/badge/license-MIT-blue)
-![Live Demo](https://expensestrackern.netlify.app/)  
+![🌐Live Demo](https://expensestrackern.netlify.app/)  
 
 > A lightweight financial tracking web app with local storage persistence 💾  
 > Built with vanilla HTML, CSS, and JavaScript
@@ -38,5 +38,4 @@ Simply double-click index.html or:
 
 bash
 open index.html  # Mac
-start index.html # Windows
-🌐 Live Demo:(https://expensestrackern.netlify.app/)
+start index.html # Windows 
