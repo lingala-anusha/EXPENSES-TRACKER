@@ -1,4 +1,5 @@
-# 💰 Expense Tracker [![Netlify Status](https://expensestrackern.netlify.app/)  ![GitHub license](https://img.shields.io/badge/license-MIT-blue)
+# 💰 Expense Tracker
+[![Netlify Status](https://expensestrackern.netlify.app/)  ![GitHub license](https://img.shields.io/badge/license-MIT-blue)
 
 > A lightweight financial tracking web app with local storage persistence 💾  
 > Built with vanilla HTML, CSS, and JavaScript
