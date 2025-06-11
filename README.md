@@ -31,7 +31,7 @@ expense-tracker/
 Clone the repo
 
 bash
-[git clone](https://github.com/lingalanusha/EXPENSES-TRACKER.git)
+![git clone](https://github.com/lingalanusha/EXPENSES-TRACKER.git/)
 Open in browser
 
 Simply double-click index.html or:
