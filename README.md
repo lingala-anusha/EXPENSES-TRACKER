@@ -27,10 +27,12 @@ expense-tracker/
 ├── style.css       # Responsive styling with animations
 └── script.js       # Core logic (CRUD operations + localStorage)
 
-## 🚀 Quick Start
+## 🔽 Clone Repository
 
-### 1. Clone the repository
-![Clone Repo](https://img.shields.io/badge/📋_git_clone-Click_to_Copy-blue)](https://github.com/lingalanusha/EXPENSES-TRACKER.git)
+[![Clone](https://img.shields.io/badge/CLONE_THIS_REPO-Click_Here-important?style=for-the-badge)](
+https://github.com/lingalanusha/EXPENSES-TRACKER.git)
+
+```bash
 git clone https://github.com/lingalanusha/EXPENSES-TRACKER.git
 
 Simply double-click index.html or:
