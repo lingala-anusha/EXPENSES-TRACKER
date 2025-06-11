@@ -38,4 +38,4 @@ Simply double-click index.html or:
 bash
 open index.html  # Mac
 start index.html # Windows
-🌐 Live Demo:(https://expensestrackern.netlify.app/
+![🌐 Live Demo]:(https://expensestrackern.netlify.app/)
